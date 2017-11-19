@@ -23,6 +23,6 @@ class CashRegister
   end
 
   def items
-    item
+    items
   end
 end
