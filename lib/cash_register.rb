@@ -12,8 +12,7 @@ class CashRegister
   end
 
   def apply_discount
-    total_price = (@total / 20)
-    total_price
+    (@total / 20)
   end
 
 end
