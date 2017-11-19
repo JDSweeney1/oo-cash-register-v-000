@@ -17,5 +17,4 @@ class CashRegister
       "After the discount, the total comes to $#{self.total}."
     end
   end
-
 end
